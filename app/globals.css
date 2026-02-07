@@ -1,0 +1,13 @@
+@import "tailwindcss";
+/* @tailwind base;
+@tailwind components; */
+@tailwind utilities;
+
+:root {
+  --primary: #1e40af; /* Deep Blue for Trust */
+  --secondary: #0ea5e9; /* Light Blue for Action */
+}
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
